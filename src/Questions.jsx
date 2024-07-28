@@ -83,7 +83,7 @@ const questions = [
     answerOptions: [
       { answerText: 'أريحا', isCorrect: true },
       { answerText: 'كفرناحوم', isCorrect: false},
-      { answerText: 'جليلية', isCorrect: false },
+      { answerText: 'أدوم', isCorrect: false },
       { answerText: 'أورشليم', isCorrect: false },
     ],
   },
